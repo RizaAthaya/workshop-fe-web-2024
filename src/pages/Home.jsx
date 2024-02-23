@@ -4,7 +4,9 @@ import Layout from "../components/layout/MainLayout";
 const Home = () => {
   return (
     <Layout>
-      <div className="text-3xl text-bold">Home</div>
+      <main className="flex flex-col gap-3 items-center w-full">
+     
+      </main>
     </Layout>
   );
 };
