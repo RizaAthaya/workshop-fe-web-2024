@@ -37,7 +37,17 @@ node -v
   git clone https://github.com/username/repository.git
 ~~~
 
+- Masuk ke direktori tujuan
+~~~bash  
+  cd directory
+~~~
+
+- Jalankan `npm install`
+~~~bash  
+  npm install
+~~~
 - That's it
+
 
 
 
