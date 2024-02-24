@@ -1,8 +1,53 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Welcome to BCC Intern 2024 🎉🎉 
+Selamat! Anda dinyatakan diterima dalam proses Internship BCC 2023 di departemen Front End. Pastinya bukan perjuangan yang gampang yaa.
 
-Currently, two official plugins are available:
+Nahh, untuk semakin memperkuat pondasi pemahaman teman - teman di Front End, maka inilah starter pack project untuk workshop nantinya. Semoga teman - teman makin semangat yaa 😎
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Get Started 1🚀
+
+- Install [Node JS](https://nodejs.org/en/) terlebih dahulu. Disarankan install versi LTS
+- Cek apakah Node JS sudah terinstall menggunakan command berikut
+~~~bash 
+node -v
+~~~
+
+### Pilih salah satu (Clone / Download)
+#### Download zip file:
+- Download repo ini, kemudian extract di folder favorit kalian
+
+- pergi ke direktori project 
+
+- jalankan
+~~~bash  
+  npm install
+~~~
+
+- That's it
+
+#### Cloning Repository dengan Git:
+- Install Git
+
+- Buka Terminal atau Command Prompt
+
+- Navigasi ke Direktori Tujuan
+
+- Clone Repository
+~~~bash  
+  git clone https://github.com/username/repository.git
+~~~
+
+- Masuk ke direktori tujuan
+~~~bash  
+  cd directory
+~~~
+
+- Jalankan `npm install`
+~~~bash  
+  npm install
+~~~
+- That's it
+
+
+
+### See you di workshop semuanya🔥
