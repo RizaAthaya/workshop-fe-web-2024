@@ -4,7 +4,7 @@ Selamat! Anda dinyatakan diterima dalam proses Internship BCC 2023 di departemen
 
 Nahh, untuk semakin memperkuat pondasi pemahaman teman - teman di Front End, maka inilah starter pack project untuk workshop nantinya. Semoga teman - teman makin semangat yaa 😎
 
-## Get Started 1🚀
+## Get Started 🚀
 
 - Install [Node JS](https://nodejs.org/en/) terlebih dahulu. Disarankan install versi LTS
 - Cek apakah Node JS sudah terinstall menggunakan command berikut
@@ -26,7 +26,7 @@ node -v
 - That's it
 
 #### Cloning Repository dengan Git:
-- Install Git
+- [Install Git](https://git-scm.com/downloads)
 
 - Buka Terminal atau Command Prompt
 
@@ -37,15 +37,6 @@ node -v
   git clone https://github.com/username/repository.git
 ~~~
 
-- Masuk ke direktori tujuan
-~~~bash  
-  cd directory
-~~~
-
-- Jalankan `npm install`
-~~~bash  
-  npm install
-~~~
 - That's it
 
 
